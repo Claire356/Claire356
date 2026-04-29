@@ -37,6 +37,7 @@ I turn product ideas into working prototypes fast — using AI-native workflows 
 | [predict-earn-learn](https://github.com/Claire356/predict-earn-learn) | Prediction market app where users earn by forecasting asset prices | React · TypeScript · Vite |
 | [gamified-alpha-quest](https://github.com/Claire356/gamified-alpha-quest) | Gamified crypto alpha discovery platform | React · TypeScript |
 | [reactor-insight](https://github.com/Claire356/reactor-insight) | Nuclear incident monitoring dashboard with AI-enhanced UI | React · TypeScript |
+| [nexus-asset-guide](https://github.com/Claire356/nexus-asset-guide) | Web3 DeFi dashboard with real-time CoinGecko prices, MetaMask wallet integration, and AI-powered insights | React · TypeScript · wagmi · Supabase |
 
 ---
 
