@@ -2,7 +2,8 @@
 
 **AI Product Engineer · Vibe Coding Builder · Web3 Enthusiast**
 
-AI-native product builder with 7+ years of commercial and finance experience. I combine hands-on AI prototyping with business intuition — building MVPs with LLM APIs, winning hackathons, and turning ideas into working products fast.
+I turn product ideas into working prototypes fast — using AI-native workflows and LLM APIs.
+4x Hackathon winner 🥇 (Fintech Rising London, McKinsey collab, Agents Without Borders, AMMO AI) · Hackathon organizer in Hangzhou & Singapore.
 
 ---
 
@@ -25,19 +26,6 @@ AI-native product builder with 7+ years of commercial and finance experience. I 
 
 - On-chain research & wallet integration concepts
 - DeFi / GameFi application development
-
----
-
-## 🏆 Hackathon Highlights
-
-| Award | Event | Project |
-|-------|-------|---------|
-| 🥇 1st Place | Fintech Rising London | Multi-agent LLM system generating crypto strategies into Pine Script V6 |
-| 🥈 2nd Place | Quantum Black x Lovable x Light by McKinsey | AI CFO copilot agent workflow |
-| 🏅 Winner | Agents Without Borders Taiwan | AI weather agent prototype |
-| 🥈 2nd Place | AMMO AI Hackathon | Crypto & stock investment platform |
-
-**Also:** Organized Hangzhou AI Hackathon (50+ builders, 13 projects output) & co-organized Singapore MiroMind Hackathon.
 
 ---
 
