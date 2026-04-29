@@ -40,4 +40,4 @@ I turn product ideas into working prototypes fast — using AI-native workflows 
 
 ---
 
-📫 Open to remote AI Product Engineer roles · Based in Hangzhou, CN · English (Fluent)
+📫 English (Fluent)
