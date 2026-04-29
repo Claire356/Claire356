@@ -3,7 +3,7 @@
 **AI Product Engineer · Vibe Coding Builder · Web3 Enthusiast**
 
 I turn product ideas into working prototypes fast — using AI-native workflows and LLM APIs.
-4x Hackathon winner 🥇 (Fintech Rising London, McKinsey collab, Agents Without Borders, AMMO AI) · Hackathon organizer in Hangzhou & Singapore.
+4x Hackathon winner 🥇 · Hackathon organizer in Hangzhou & Singapore.
 
 ---
 
