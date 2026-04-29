@@ -2,8 +2,7 @@
 
 **AI Product Engineer · Vibe Coding Builder · Web3 Enthusiast**
 
-I build full-stack web applications at high velocity using AI-native development workflows —
-turning product ideas into working prototypes in days, not weeks.
+AI-native product builder with 7+ years of commercial and finance experience. I combine hands-on AI prototyping with business intuition — building MVPs with LLM APIs, winning hackathons, and turning ideas into working products fast.
 
 ---
 
@@ -18,14 +17,27 @@ turning product ideas into working prototypes in days, not weeks.
 
 ## 🤖 AI Tooling
 
-- **Vibe Coding**: Lovable, Cursor, Windsurf, Replit Agent
+- **Vibe Coding**: Lovable, Cursor, Google AI Studio
 - **LLM Integration**: OpenAI GPT, Google Gemini, Anthropic Claude
-- **Prompt Engineering**: Complex multi-step prompts for structured, maintainable code generation
+- **Prompt Engineering**: Multi-step prompts for structured, production-ready code generation
 
 ## 🔗 Web3 Experience
 
-- Wallet integrations & blockchain data interactions
+- On-chain research & wallet integration concepts
 - DeFi / GameFi application development
+
+---
+
+## 🏆 Hackathon Highlights
+
+| Award | Event | Project |
+|-------|-------|---------|
+| 🥇 1st Place | Fintech Rising London | Multi-agent LLM system generating crypto strategies into Pine Script V6 |
+| 🥈 2nd Place | Quantum Black x Lovable x Light by McKinsey | AI CFO copilot agent workflow |
+| 🏅 Winner | Agents Without Borders Taiwan | AI weather agent prototype |
+| 🥈 2nd Place | AMMO AI Hackathon | Crypto & stock investment platform |
+
+**Also:** Organized Hangzhou AI Hackathon (50+ builders, 13 projects output) & co-organized Singapore MiroMind Hackathon.
 
 ---
 
@@ -40,4 +52,4 @@ turning product ideas into working prototypes in days, not weeks.
 
 ---
 
-📫 Open to remote AI Product Engineer roles · Based in Hangzhou, CN
+📫 Open to remote AI Product Engineer roles · Based in Hangzhou, CN · English (Fluent)
