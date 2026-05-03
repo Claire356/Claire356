@@ -38,6 +38,7 @@ I turn product ideas into working prototypes fast — using AI-native workflows 
 | [gamified-alpha-quest](https://github.com/Claire356/gamified-alpha-quest) | Gamified crypto alpha discovery platform | React · TypeScript |
 | [reactor-insight](https://github.com/Claire356/reactor-insight) | Nuclear incident monitoring dashboard with AI-enhanced UI | React · TypeScript |
 | [nexus-asset-guide](https://github.com/Claire356/nexus-asset-guide) | Web3 DeFi dashboard with real-time CoinGecko prices, MetaMask wallet integration, and AI-powered insights | React · TypeScript · wagmi · Supabase |
+| [vibe-scan-ai](https://github.com/Claire356/vibe-scan-ai) | On-chain vibe intelligence dashboard for Solana & Ethereum traders. AI Vibe Engine fuses real-time DEX/CEX prices into a single Bear→Bull score | Next.js · TypeScript · RainbowKit · wagmi · DexScreener |
 
 ---
 
